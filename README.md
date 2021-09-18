@@ -8,3 +8,5 @@ Loop over the index and pick values
 
 ![Alt text](https://github.com/swapanroy/BrailleTranslatation/blob/main/Braille.jpg? "Output of translated Braille")
 
+
+For collaboration or suggestion, reach me on my  [LinkedIn](www.linkedin.com/in/swapanroy/) [Twitter](www.twitter.com/royswapan)
