@@ -37,7 +37,7 @@ Source for translation : https://www.pharmabraille.com/braille-codes/unified-eng
               return
 
 
-![Output of translated Braille](https://github.com/swapanroy/BrailleTranslatation/blob/6dac8fb7437262aa5d96ecd8315594b7bb2ee8db/Braille.jpg )
+![output in braille shown in Visual Studio](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/feb32ggm6keogym91wn1.jpg)
 
 
 For collaboration or suggestion, reach me on my  [LinkedIn](www.linkedin.com/in/swapanroy/) [Twitter](www.twitter.com/royswapan)
