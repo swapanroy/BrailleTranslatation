@@ -40,4 +40,4 @@ Source for translation : https://www.pharmabraille.com/braille-codes/unified-eng
 ![output in braille shown in Visual Studio](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/feb32ggm6keogym91wn1.jpg)
 
 
-For collaboration or suggestion, reach me on my  [LinkedIn](www.linkedin.com/in/swapanroy/) [Twitter](www.twitter.com/royswapan)
+For collaboration or suggestion, reach me on my  [Twitter](www.twitter.com/royswapan)
